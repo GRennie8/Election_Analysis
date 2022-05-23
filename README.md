@@ -52,7 +52,7 @@ For this challenge I was asked to report:
 
 ## Election Audit Summary
 
-In the election results .csv file there are 3 columns named "Ballot ID, County and Candidate Name". This script will count the number of times each county and candidate is in the list. These values can be different without needing to modify the script too much. This code will search through a specific column in the entire dataset. 1 = County. 2 = Candidate.
+In the election results .csv file there are 3 columns named "Ballot ID, County and Candidate Name". This script will count the number of times each county and candidate are in the list. These values can be different without needing to modify the script too much. This code will search through a specific column in the entire dataset. 1 = County. 2 = Candidate.
 
   ![Screen Shot 2022-05-21 at 10 12 58 PM](https://user-images.githubusercontent.com/104115586/169678318-cd5c38c8-0daa-4691-805a-8287c7208c4b.png)
 
